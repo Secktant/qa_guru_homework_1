@@ -11,6 +11,6 @@ def greet(name: str):
     print("Привет," + name)
 
 
-nums = [1, 2, 3, 4, 5]
+nums = [1, 2, 3, 4, 6]
 greet("мир")
 print(addition(2, 2))
